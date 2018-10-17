@@ -37,8 +37,8 @@ plt.xlabel('PovPct')
 plt.ylabel('Brth15to17')
 plt.legend(['linear regression solution','state'])
 plt.title('poverty level and teen birth rate in the US')
-plt.show()
 plt.savefig('assignment1.png')
+plt.show()
 
 
 # Regress Brth15to17 against PovPct and ViolCrime
